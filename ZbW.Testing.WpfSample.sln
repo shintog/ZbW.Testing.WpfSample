@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZbW.Testing.WpfSample.Libs.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZbW.Testing.WpfSample.Libs.IpInfoInterface.IntegrationTests", "ZbW.Testing.WpfSample.Libs.IpInfoInterface.IntegrationTests\ZbW.Testing.WpfSample.Libs.IpInfoInterface.IntegrationTests.csproj", "{E33EDB0E-65CC-412D-8AF4-5489281BDCC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Testing.WpfSample.Client.UnitTests", "ZbW.Testing.WpfSample.Client.UnitTests\ZbW.Testing.WpfSample.Client.UnitTests.csproj", "{C18A1AFF-9E74-4779-B4D5-AD5F52735B5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZbW.Testing.WpfSample.Client.UnitTests", "ZbW.Testing.WpfSample.Client.UnitTests\ZbW.Testing.WpfSample.Client.UnitTests.csproj", "{C18A1AFF-9E74-4779-B4D5-AD5F52735B5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Testing.WpfSample.Client.IntegrationTests", "ZbW.Testing.WpfSample.Client.IntegrationTests\ZbW.Testing.WpfSample.Client.IntegrationTests.csproj", "{193B0954-BB68-4F13-905E-C712702115EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZbW.Testing.WpfSample.Client.IntegrationTests", "ZbW.Testing.WpfSample.Client.IntegrationTests\ZbW.Testing.WpfSample.Client.IntegrationTests.csproj", "{193B0954-BB68-4F13-905E-C712702115EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
